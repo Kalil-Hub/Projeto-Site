@@ -19,3 +19,14 @@ h {
     font-size: 20px;
     color: aquamarine;
 }
+
+img.lado{
+    float: right;
+    width: 120px;
+    height: 110px;
+}
+
+img.logo{
+    width: 120px;
+    height: 120px;
+}
